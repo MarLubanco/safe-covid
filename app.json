@@ -19,8 +19,12 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.thome.safecorona",
+      "versionCode": 1
+    },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/maskicon.png"
     }
   }
 }
